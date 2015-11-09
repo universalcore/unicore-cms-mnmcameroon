@@ -2,7 +2,7 @@ from datetime import datetime
 from pyramid import testing
 
 from cms.tests.base import UnicoreTestCase
-from unicorecmsconnectsmart import main
+from unicorecmsmnmcameroon import main
 from unicore.content.models import Page, Localisation
 
 

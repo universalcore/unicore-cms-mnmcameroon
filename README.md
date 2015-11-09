@@ -1,3 +1,3 @@
-unicore-cms-connectsmart
+unicore-cms-mnmcameroon
 ========================
-Unicef's Connect Smart Pyramid Frontend Site for Universal Core
+Malaria No More Pyramid Frontend Site for Universal Core
