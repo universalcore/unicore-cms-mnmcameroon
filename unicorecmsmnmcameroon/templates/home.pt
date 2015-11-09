@@ -48,7 +48,7 @@
         </div>
         
         <div class="articles">
-            <div class="h1">Our Supporters</div>
+            <div class="h1" i18n:translate="Our Supporters">Our Supporters</div>
             <div class="listing">
                 <div id="thanks">
                     <p>We'd like to thank ExxonMobil, the MTN Foundation, the Clinton Foundation and Peace Corps</p>
